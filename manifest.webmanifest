@@ -1,0 +1,10 @@
+{
+  "name": "Local rPPG Monitor",
+  "short_name": "rPPG Monitor",
+  "description": "On-device facial wellness signal visualization.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07100b",
+  "theme_color": "#08120d",
+  "icons": [{ "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
